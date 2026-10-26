@@ -1,0 +1,6 @@
+test,unit,min_limit,max_limit,method
+density,kg/m3 @15C,820.0,845.0,ASTM D4052
+viscosity,cSt @40C,2.0,4.5,ASTM D445
+flash_point,C,55.0,,ASTM D93
+water_ppm,mg/kg,,200.0,ASTM D6304
+sulfur_ppm,mg/kg,,10.0,ASTM D5453
